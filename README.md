@@ -1,2 +1,2 @@
 # Morse-Code-Encode
-A Python Program to Encode English into Morse Code 
+A Python app to encode english words into morse code 
